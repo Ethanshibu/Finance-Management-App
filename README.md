@@ -5,12 +5,13 @@ Upload your bank statement CSV, categorize transactions, and visualize expenses 
 
 ---
 
+```plaintext
 Finance_Management_cwj/
-├── main.py                # Main Streamlit app
-├── categories.json        # Auto-generated category mappings
-├── sample_bank_statement.csv (optional)
-├── .gitignore
-└── README.md
+├── main.py               # Main Streamlit app
+├── categories.json       # Auto-generated category mappings
+├── .gitignore            # To ignore unnecessary files like the dummy bank statement
+├── README.md             # Project description and instructions
+└── (Optional folder)     # You can add this for keeping the dummy files locally but not commit them
 
 ---
 
