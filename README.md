@@ -12,7 +12,7 @@ Finance_Management_cwj/
 ├── .gitignore            # To ignore unnecessary files like the dummy bank statement
 ├── README.md             # Project description and instructions
 └── (Optional folder)     # You can add this for keeping the dummy files locally but not commit them
-
+```
 ---
 
 ## 🧩 Features
