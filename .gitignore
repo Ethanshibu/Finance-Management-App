@@ -1,0 +1,13 @@
+categories.json
+venv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info
+*.egg
+*.log
+*.DS_Store
+*.env
