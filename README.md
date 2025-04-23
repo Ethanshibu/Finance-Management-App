@@ -31,10 +31,11 @@ Finance_Management_cwj/
 
 ```bash
 pip install streamlit pandas plotly
-
+```
 ### 2. Run the app
-
+```
 streamlit run main.py
+```
 
 ### 3. Upload a Sample File
 Format: CSV with columns like Date, Details, Amount, Debit/Credit
